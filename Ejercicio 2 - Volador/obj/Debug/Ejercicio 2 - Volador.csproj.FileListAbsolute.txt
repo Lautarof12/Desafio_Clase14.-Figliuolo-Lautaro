@@ -1,0 +1,14 @@
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 14\Ejercicio 2 - Volador\bin\Debug\Ejercicio 2 - Volador.exe.config
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 14\Ejercicio 2 - Volador\bin\Debug\Ejercicio 2 - Volador.exe
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 14\Ejercicio 2 - Volador\bin\Debug\Ejercicio 2 - Volador.pdb
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 14\Ejercicio 2 - Volador\obj\Debug\Ejercicio 2 - Volador.csproj.AssemblyReference.cache
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 14\Ejercicio 2 - Volador\obj\Debug\Ejercicio 2 - Volador.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 14\Ejercicio 2 - Volador\obj\Debug\Ejercicio 2 - Volador.exe
+C:\Users\lauta\OneDrive\Escritorio\Laboratorio 2\Videos de clases\Desafios de clases\Desafio de clase 14\Ejercicio 2 - Volador\obj\Debug\Ejercicio 2 - Volador.pdb
+C:\Users\lauta\OneDrive\Escritorio\DesafioClase14_FigliuoloLautaro\Ejercicio 2 - Volador\bin\Debug\Ejercicio 2 - Volador.exe.config
+C:\Users\lauta\OneDrive\Escritorio\DesafioClase14_FigliuoloLautaro\Ejercicio 2 - Volador\bin\Debug\Ejercicio 2 - Volador.exe
+C:\Users\lauta\OneDrive\Escritorio\DesafioClase14_FigliuoloLautaro\Ejercicio 2 - Volador\bin\Debug\Ejercicio 2 - Volador.pdb
+C:\Users\lauta\OneDrive\Escritorio\DesafioClase14_FigliuoloLautaro\Ejercicio 2 - Volador\obj\Debug\Ejercicio 2 - Volador.csproj.AssemblyReference.cache
+C:\Users\lauta\OneDrive\Escritorio\DesafioClase14_FigliuoloLautaro\Ejercicio 2 - Volador\obj\Debug\Ejercicio 2 - Volador.csproj.CoreCompileInputs.cache
+C:\Users\lauta\OneDrive\Escritorio\DesafioClase14_FigliuoloLautaro\Ejercicio 2 - Volador\obj\Debug\Ejercicio 2 - Volador.exe
+C:\Users\lauta\OneDrive\Escritorio\DesafioClase14_FigliuoloLautaro\Ejercicio 2 - Volador\obj\Debug\Ejercicio 2 - Volador.pdb

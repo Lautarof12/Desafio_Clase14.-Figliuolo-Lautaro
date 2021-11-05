@@ -1,0 +1,7 @@
+C:\Users\lauta\Desktop\Nueva carpeta\Desafio de interfaces\bin\Debug\Desafio de interfaces.exe.config
+C:\Users\lauta\Desktop\Nueva carpeta\Desafio de interfaces\bin\Debug\Desafio de interfaces.exe
+C:\Users\lauta\Desktop\Nueva carpeta\Desafio de interfaces\bin\Debug\Desafio de interfaces.pdb
+C:\Users\lauta\Desktop\Nueva carpeta\Desafio de interfaces\obj\Debug\Desafio de interfaces.csproj.AssemblyReference.cache
+C:\Users\lauta\Desktop\Nueva carpeta\Desafio de interfaces\obj\Debug\Desafio de interfaces.csproj.CoreCompileInputs.cache
+C:\Users\lauta\Desktop\Nueva carpeta\Desafio de interfaces\obj\Debug\Desafio de interfaces.exe
+C:\Users\lauta\Desktop\Nueva carpeta\Desafio de interfaces\obj\Debug\Desafio de interfaces.pdb
